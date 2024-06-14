@@ -1,6 +1,6 @@
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala 2k20</title>
+        <title>Model College</title>
     <style>
 .bgImage 
 {
@@ -22,7 +22,7 @@
             <div class="navbar-header"><!--website name/title-->
              
                 <a class = "navbar-brand">
-                    Sanchalana 2k20
+                Model College
                 </a> 
             </div>
             <ul class="nav navbar-nav navbar-right"><!--navigation-->

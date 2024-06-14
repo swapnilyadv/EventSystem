@@ -14,7 +14,7 @@
         <div class="navbar-header"><!--website name/title-->
                
                 <a class = "navbar-brand">
-                   <h2> Sanchalana 2k20</h2>
+                   <h2>Model College</h2>
                 </a>
         </div>
        
