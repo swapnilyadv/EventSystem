@@ -28,7 +28,7 @@ hr.blueline {
   
 <h1>About Us</h1>
 
-<p id="bj"> Sai Vidya Institute of Technology, affiliated to Visvesvarya Technological University (VTU), Belagavi, Karnataka, approved by All India Council for Technical Education(AICTE) New Delhi, and recognized by the Government of Karnataka, was established in the year 2008 by SRI SAI VIDYA VIKAS SHIKSHANA SAMITHI which is a trust formed by a group of well known academicians.
+<p id="bj"> Keraleeya Samajam's Model College , affiliated to Visvesvarya Technological University (VTU), Belagavi, Karnataka, approved by All India Council for Technical Education(AICTE) New Delhi, and recognized by the Government of Karnataka, was established in the year 2008 by SRI SAI VIDYA VIKAS SHIKSHANA SAMITHI which is a trust formed by a group of well known academicians.
 
 This Visionary group is committed to develop SVIT as a paradigm within a couple of years. The future of SVIT in Engineering Education is bright as the above professors are heading the departments and extend their service to develop the institution with the support of highly qualified and dedicated teaching and non-teaching staff.</p>
 
@@ -37,7 +37,7 @@ This Visionary group is committed to develop SVIT as a paradigm within a couple 
 
 SVIT will provide students with a sense of history, an understanding of the ideals and principles, a commitment to law and morality, an appreciation of human creativity an analytically inquisitive mind. We believe that once the students experience these, they are ready to address the challenges of the rapidly transforming world.</p>
 
-<p id="bj"> Sanchalana is a cultural fest which is held every year, we like everyone to participate cheerfully in every event.</p>
+<p id="bj"> Keraleeya Samajam's Model College is a cultural fest which is held every year, we like everyone to participate cheerfully in every event.</p>
 
 </div>
 <hr class="blueline">

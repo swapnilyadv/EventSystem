@@ -9,7 +9,7 @@ $result = mysqli_query($conn,"SELECT * FROM events,event_info ef,student_coordin
 <html>
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sanchanala 2k20</title>
+        <title>Model College</title>
         <title></title>
         <?php require 'utils/styles.php'; ?><!--css links. file found in utils folder-->
         
